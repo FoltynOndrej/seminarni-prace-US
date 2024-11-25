@@ -1,2 +1,2 @@
 # seminarni-prace-US
-napište téma seminární práce
+Tabulkové procesory
