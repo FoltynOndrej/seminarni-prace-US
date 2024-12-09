@@ -12,4 +12,5 @@ k seminární práci:
 - jednopísmenné předložky nebo spohky nepatří na konec řádku
 - seznam literatury se řdí dle abecedy
 - mezi dva nadpisy patří vždy alespoň jeden odstavec textu
+- kde máte v textu citace literatury, kterou jste použil
 - HV
