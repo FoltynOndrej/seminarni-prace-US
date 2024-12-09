@@ -11,4 +11,5 @@ k seminární práci:
 - v práci vynechávejte plevelná slova - tato, tento, toto  atd.
 - jednopísmenné předložky nebo spohky nepatří na konec řádku
 - seznam literatury se řdí dle abecedy
+- mezi dva nadpisy patří vždy alespoň jeden odstavec textu
 - HV
